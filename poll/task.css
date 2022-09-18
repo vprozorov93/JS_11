@@ -1,0 +1,31 @@
+body {
+font-family: Arial;
+}
+
+.card {
+width: 625px;
+}
+
+.poll__title {
+margin-bottom: 20px;
+}
+
+.poll__answers {
+display: none;
+}
+
+.poll__answers_active {
+display: block;
+}
+
+.poll__statistic {
+    display: none;
+}
+
+.poll__statistic_active {
+    display: inline;
+}
+
+.variants {
+    display: block;
+}
